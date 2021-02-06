@@ -65,7 +65,7 @@ Did not expect this document to get so long! So I've select what I think are the
   - [SKR 1.4 Turbo Mainboard w/ TMC 2209 Stepper Motor Drivers](https://amzn.to/3rhDa86)
     - I only used the SKR 1.4 since I had extras
       - Clearly I have a problem.. who has these just lying around?!
-  - [BTT 5V DCDC Board](https://amzn.to/3ro2oS7)
+  - [BTT 5V DCDC Board](https://amzn.to/3ro2oS7) or [DCDC for SKR Mini](https://amzn.to/2YWhwKh)
     - Power for LEDs and Raspberry Pi
 - [Raspberry Pi 4](https://amzn.to/3rhkuW4)
   - [OctoPrint](https://octoprint.org/) with [Klipper Firmware](https://www.klipper3)
